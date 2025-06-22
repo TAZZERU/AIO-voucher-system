@@ -108,7 +108,7 @@ A comprehensive voucher management system with Pretix integration and SSO suppor
 
 ## License
 
-MIT License - see LICENSE file for details.
+MIT License
 
 ## Support
 
